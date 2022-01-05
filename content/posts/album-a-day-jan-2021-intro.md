@@ -15,6 +15,9 @@ posting my thoughts on the albums I listen to here, so prepare for amateur
 music journalism.
 
 With that said, here's the list of albums I've got queued up, in no particular order:
+
+_Note: I'll update these with the link to the review as they get listened to!_
+
 - alt-J - An Awesome Wave
 - Portugal. The Man - Waiter: "You Vultures!"
 - Fiona Apple - Fetch The Bolt Cutters
@@ -36,7 +39,7 @@ With that said, here's the list of albums I've got queued up, in no particular o
 - Bomb the Music Industry! - Vacation
 - wowaka - UNHAPPY REFRAIN
 - Alvvays - Antisocialites
-- various artists - mikgazer vol. 1 (compilation)
+- various artists - [mikgazer vol. 1 (compilation)](/posts/mikgazer-vol-1-review)
 - Mid-Air Thief (공중도둑) - Gongjoong Doduk (공중도덕)
 - K O T O - PLATONICPLANET
 - Haru Nemuri - harutosyura
