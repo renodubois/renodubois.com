@@ -39,6 +39,7 @@ With that said, here's the list of albums I've got queued up, in no particular o
 - various artists - mikgazer vol. 1 (compilation)
 - Mid-Air Thief (공중도둑) - Gongjoong Doduk (공중도덕)
 - K O T O - PLATONICPLANET
+- Haru Nemuri - harutosyura
 - King Gizzard & The Lizard Wizard - Nonagon Infinity
 - My Bloody Valentine - m b v
 
