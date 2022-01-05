@@ -1,0 +1,6 @@
+baseURL = 'https://renodubois.github.io'
+languageCode = 'en-us'
+title = 'Reno DuBois'
+contentdir = 'content'
+canonifyurls = true
+author = 'Reno DuBois'
