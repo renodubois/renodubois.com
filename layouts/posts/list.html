@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+	<article>
+        <header>
+            <h1>{{.Title}}</h1>
+			<hr>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+    </article>
+    <!-- Ranges through content/posts/*.md -->
+	{{ $prev := 3000}}
+    {{range .RegularPages}}
+      {{if .Date}}
+      {{if gt $prev (.Date.Format "2006")}}
+      {{ if ne $prev 3000}}
+        </ul>
+      {{ end }}
+      <h3>{{ .Date.Format "2006" }}</h3>
+	  <ul>
+      {{end}}
+	  <li>{{.Date.Format "02 Jan"}} - <a class="no-underline" href="{{.Permalink}}">{{.Title}}</a>
+      {{ $prev = .Date.Format "2006"}}
+      {{end}}
+    {{end}}
+{{ partial "footer.html" . }}
