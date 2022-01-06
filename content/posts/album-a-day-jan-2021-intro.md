@@ -1,5 +1,5 @@
 ---
-title: "Album a Day Jan 2021 - Intro"
+title: "Album a Day Jan 2021"
 tags: ["music"]
 date: 2022-01-05
 ---
@@ -45,5 +45,3 @@ _Note: I'll update these with the link to the review as they get listened to!_
 - Haru Nemuri - harutosyura
 - King Gizzard & The Lizard Wizard - Nonagon Infinity
 - My Bloody Valentine - m b v
-
-I'll hopefully be back today to post my thoughts on the first album!
