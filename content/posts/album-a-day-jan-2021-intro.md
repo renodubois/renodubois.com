@@ -32,7 +32,7 @@ _Note: I'll update these with the link to the review as they get listened to!_
 - Broken Social Scene - You Forgot It In People
 - of Montreal - The Sunlandic Twins
 - Björk - Homogenic
-- Black Country, New Road - For the first time
+- Black Country, New Road - [For the first time](/posts/bcnr-for-the-first-time-review)
 - Brave Little Abacus - Just Got Back from the Discomfort We're Alright
 - BLACK MIDI - schlagenheim
 - Kero Kero Bonito - Time 'n' Place
