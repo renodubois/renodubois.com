@@ -4,7 +4,7 @@ tags: ["music"]
 date: 2022-01-05
 ---
 
-_This is a review for my monthlong Album-a-Day adventure in Jan. 2021.
+_This is a review for my month long Album-a-Day adventure in Jan. 2022.
 if you want to read the other reviews, check out the
 [original post](/posts/album-a-day-jan-2021-intro/)._
 
