@@ -7,6 +7,8 @@ _This is a review for my monthlong Album-a-Day adventure in Jan. 2021.
 if you want to read the other reviews, check out the
 [original post](/posts/album-a-day-jan-2021-intro/)._
 
+![album cover for Black Country, New Road: For the first time](/images/bcnr-ftft-300.jpg)
+
 I realized as I started listening to this album that even though I saw their name
 on every music related thing for the past year, I had zero clue what the hell
 Black Country, New Road even sounded like. After listening to their debut record,

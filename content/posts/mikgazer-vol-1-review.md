@@ -8,6 +8,8 @@ _This is a review for my monthlong Album-a-Day adventure in Jan. 2021.
 if you want to read the other reviews, check out the
 [original post](/posts/album-a-day-jan-2021-intro/)._
 
+![album cover for mikgazer vol. 1](/images/mikgazer-300.jpg)
+
 First album of the month is a compilation album, _mikgazer vol. 1_. This is a
 collection of shoegaze instrumentals with vocals by none other than everyone's
 favorite vocaloid, Hatsune Miku. Part of the reason I picked this album was
