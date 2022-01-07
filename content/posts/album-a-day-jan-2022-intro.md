@@ -1,5 +1,5 @@
 ---
-title: "Album a Day Jan 2021"
+title: "Album a Day Jan 2022"
 tags: ["music"]
 date: 2022-01-05
 ---
@@ -35,7 +35,7 @@ _Note: I'll update these with the link to the review as they get listened to!_
 - Black Country, New Road - [For the first time](/posts/bcnr-for-the-first-time-review)
 - Brave Little Abacus - Just Got Back from the Discomfort We're Alright
 - BLACK MIDI - schlagenheim
-- Kero Kero Bonito - Time 'n' Place
+- Kero Kero Bonito - [Time 'n' Place](/posts/kkb-time-n-place-review)
 - IDLES - Joy as an Act of Resistance.
 - Bomb the Music Industry! - Vacation
 - wowaka - UNHAPPY REFRAIN

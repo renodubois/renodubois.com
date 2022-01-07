@@ -5,7 +5,7 @@ date: 2022-01-06
 ---
 _This is a review for my month long Album-a-Day adventure in Jan. 2022.
 if you want to read the other reviews, check out the
-[original post](/posts/album-a-day-jan-2021-intro/)._
+[original post](/posts/album-a-day-jan-2022-intro/)._
 
 ![album cover for Black Country, New Road: For the first time](/images/bcnr-ftft-300.jpg)
 
