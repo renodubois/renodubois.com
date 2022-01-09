@@ -42,7 +42,7 @@ _Note: I'll update these with the link to the review as they get listened to!_
 - Alvvays - Antisocialites
 - various artists - [mikgazer vol. 1 (compilation)](/posts/mikgazer-vol-1-review)
 - Mid-Air Thief (공중도둑) - Gongjoong Doduk (공중도덕)
-- K O T O - PLATONICPLANET
+- K O T O - [PLATONICPLANET](/posts/koto-platonicplanet-review)
 - Haru Nemuri - harutosyura
 - King Gizzard & The Lizard Wizard - Nonagon Infinity
 - My Bloody Valentine - m b v
