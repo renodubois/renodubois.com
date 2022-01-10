@@ -22,7 +22,7 @@ _Note: I'll update these with the link to the review as they get listened to!_
 - Portugal. The Man - Waiter: "You Vultures!"
 - Fiona Apple - Fetch The Bolt Cutters
 - Remi Wolf - Juno
-- Kevin Abstract - ARIZONA BABY
+- Kevin Abstract - [ARIZONA BABY](/posts/kevin-abstract-arizona-baby-review)
 - Spellling - The Turning Wheel
 - Prince - Purple Rain
 - Spoon - They Want My Soul
