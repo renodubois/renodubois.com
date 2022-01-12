@@ -1,5 +1,5 @@
 ---
-title: "Alvvays Antisocialites Review"
+title: "Alvvays: Antisocialites - Review"
 tags: ["music"]
 date: 2022-01-11T21:37:49-06:00
 ---
