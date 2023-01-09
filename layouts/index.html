@@ -6,10 +6,11 @@
 {{ end }}
 </header>
 <p>
-<!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
 {{.Content}}
 </p>
 {{ range first 10 .Site.RegularPages }}
 	{{ .Render "summary"}}
 {{ end }}
+<!-- Verifying this website on my Mastodon profile. -->
+<a rel="me" href="https://rat.academy/@reno" style="display: none;" />
 {{ partial "footer.html" . }}
