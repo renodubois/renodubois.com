@@ -1,0 +1,125 @@
+---
+title: Safety & Security Committee Meeting
+date: 2023-01-12 00:01:00
+---
+
+- **Date**: Jan 12, 2023
+- **Time**: 8:45AM - 9:52AM
+- **Meeting Materials**: [link](https://www.bistatedev.org/wp-content/uploads/2022/12/Safety-Security-Committee-Open-Meeting-Materials-January-12-2023.pdf)
+- **Video Link**: not yet uploaded, will probably be available on [Bi-State YouTube](https://www.youtube.com/@metrostlouis/videos)
+---
+
+- Roll Call
+- Public Comment/Speaker Cards: none submitted to safety & security
+- Minutes from previous meeting: approved
+- Secure Platform Plan (SPP) Update - Kevin Scott
+	- Fencing, gating & CCTV
+	- Introducing some of the staff associated with the project:
+		- Chris Poehler: oversees the work of the engineering staff
+		- Time Nittler: BiState's lead SPP engineer on the project
+		- Kelly Haidinyak: project manager on BiState
+		- Scott Streckfuest (sp?): SPP Systems Specialist
+		- Andrew Ghiassi: Public Safety, doing work with compliance
+		- Those folks are all Bi-State, next up is HNTB, which I believe is the firm managing the project.
+		- Mark Grossenbacher (sp?): Lead in STL, lead on the engineering side for SPP
+		- Hearing from Mark now, introducing some other folks and talking about the project.
+		- "...hopefully create a feeling of safety and security around the system and see ridership start to return to the system..."
+		- Selena Asire: Works out of the N. Dallas office, has worked on MetroLink before (Cortex station, and with another employer)
+		- John Pesa: Architect, overseeing the architectual side of things. Working out of the east coast, has exp. with heavy & light rail platform designs.
+	- Still hearing from Mark about the project:
+		- 5 subconsultants helping w/ the project: KAI (Kennedy And Associates, St. Louis based, worked on Cortex), ABNA (survey, STL based), Kovindio (sp) Engineering (utility relocation, STL based), Custom Engineering (KC based, office in STL, electrical design), Cote (sp) Consulting (national firm, presence in STL, code review and egress analysis)
+	- Kevin Scott is back on, continuing to talk about the project
+	- There's been a monthly update sent to stakeholders (but not the public it seems?)
+	- Ted Zimmerman (VP Markting & Communications) working with Vector Communications to lead the scheduling and regional messaging engagements w/r/t the SPP
+	- Bi-State has a new internal communications platform called HUB, which, as you'd expect, the public doesn't have access to
+		- They've already got 9-10 pages of blogs under the SPP, unclear if that will ever be released
+	- The new fare collecting system is also being worked on, needs to talk with the gate system - being led by Tom Kearne (sp), VP of Admin
+	- Commissioner Cox: asking Taulby for a timeline of the project in email form
+		- "it's (SPP) probably the most important thing Bi-State's doing right now"
+	- Scott delays answering a question about timeline: says things are on track, but has to discuss some details later in the meeting
+	- Talking now about the CCTV system: specifically calls out "live security prioritized" camera feeds
+		- "sound and proactive security"
+	- SPP will add additional cameras and an upgrade to that system
+	- Opening a real-time camera center at the Spruce location
+	- Center is up and runnning 24/7, but are doing upgrades still, points out more cameras, uninterrupted power system
+	- Moving antoher security team into the Spruce location it sounds like, trying to get everyone into one location
+	- Those CCTV systems have also been given to the 4 stations in St. Clair County so they can also use the live feeds
+	- Next up is integrating that with St. Louis County, in Clayton. This sounds like it's partnering with the County government, but could also mean law enforcement. Not totally clear.
+	- Commissioner Cox: asks if the system looks the same since he had been there on a tour
+	- Scott: Yes, things have been upgraded. Really pointing out that the strategy has switched from reactive to proactive, they're looking at feeds before attention is called to them.
+	- Herbert Simmons: talking about not wanting to lose focus on communication (?) but is being sort of vague ("it's a ticking time bomb, as we've talked about it")
+	- Ah, Scott is talking about a proposed 90-day pilot program, which sounds like communication between MetroLink security and local law enforcement, which sounds like it's being blocked by police leadership and political concerns w/ jurisdiction
+	- Simmons: St. Clair county didn't want to do the pilot initially, but STL City & County didn't want to do it either, so SCC is stepping up to do the pilot. "The problem is that our law enforcment agnencies cannot communicate directly to one another, which is definitely a safety issue"
+	- Scott: the engineering design was tasked with finding an egress study: how people are getting out of the platforms in an emergency, as well as basic high-level designs over 39 platforms: 38 existing, 1 in development (I'm not sure which one that is?). This got transferred to HNTB when they got contracted, and have been working on drafting them into a project design schedule/plan.
+	- Surveying is being done on the current 38 stations.
+	- HNTB is actively investigating "gating and fencing types".
+	- Scott: "I have stressed, I will continue to stress, and I will not aquiese from this position as the leader of this project, that any gating and fencing product must profoundly enhance the overall security at these locations"
+		- Also needs to be able to talk to the fare collection and camera system
+	- There's been a few workshops between internal folks (BSD, HNTB) to discuss things like high level designs, making sure gating can work with fare collection, etc.
+	- HNTB has had to re-assess 25% of the stations due to the "lack of emphasis on security" in the initial high-level plan.
+	- This has also required them to look at the impact on the egress study.
+	- Sounds like some things are going to have to be replaced during construction at certain stations (not specified what those things are)
+	- Also need to address: signifigant bike trails at stations in IL that need to be possibly relocated
+	- If the project is approached as a single project (every platform being done at once), this project isn't doable during the original timeframe.
+	- In Scott's estimation, would delay construction bids to late 2025
+	- Asked engineers to re-evaluate and using a progressive approach: which would shave time off, in Scott's estimation
+	- Engineers have recommended a phased/packaged schedule: phase 1 would be bid in July 2023
+	- Initial phase would be 4 stations: all in St. Clair County - Jackie Joyner-Kersee Center, Washington Park, Emerson Park, Southwestern Illinois College
+	- Initial designs don't need much modification for these stations.
+	- They won't have connection with the new fare collection
+		- How are these going to get opened up then? Or are they just "unlocked" gates?
+	- Sounds like there will be ~5 additional package/phases
+	- The first one would be smaller than the others
+	- Following this plan: the bid for construction on the last phase would be going out Aug/Sept 2024
+	- As the first phase goes into bid for construction, the second phase will go into the final design process (an ~80 day process), and so on
+	- Have to remain in complete marriage with the fare collection team during this whole process.
+	- Scott would have "huge anxiety" if they had to do everything and flip a switch at the end of the process
+	- Tim Nittler: Bid would be out in Sept, construction starting in early Fall, 4-6 months construction timeline (based on gate availability, and weather concerns)
+	- Grossenbacher restates some of the benefits they see in this package, mostly gone over by Scott already.
+	- Simmons: What does changing the phases do to the bottom line?
+	- Nittler: number of gates and amount of fencing remains the same in either method. This approach would open it up to smaller contractors, which would create more compeitition among contractors.
+		- Prices (I think of the gates) is "very concerning" to us
+		- But overall, doesn't seem to think price would change a whole lot
+	- Simmons: any anticipation having trouble bidding or securing materials?
+	- Nittler: Once the gate and fencing type is selected, will put together a package that pre-orders all of the gate and fencing at once, even before the contractor is selected
+	- A few questions from Commissioner Windmiller: Would have preferred to have some of the information condensened and sent to the board before the meeting, and wants that for future Safety & Security meetings
+	- Simmons: asked Scott to put this together today, so future meetings would have materials in writing (which is better for sending to the public, also)
+	- Windmiller: Curious how stations were selected - thought primary stations would be ones where the most security issues are happening
+	- Scott: Wanted to begin with a phase one that allows them to get gates installed the quickest, so they can learn from the installation of them. The initial 4 stations were chosen for how quickly they can be put in.
+		- "No matter what location they go in, they'll have a security impact"
+		- "We'll be staffing them initially" - this makes it seems like there will be security guards checking tickets at first, since fare collection integration isn't a thing yet
+	- Windmiller: asking about timeline stuff, but just sounds like she's misunderstanding the points from earlier (mentioned 2025, which is the year Scott mentioned _would_ have been the timeline if they didn't do this progressive approach)
+	- Scott explains the timeline he mentioned earlier, and she asks a follow up: definitely just a misunderstanding of the schedule presented here.
+		- A good example of why this would have been helpful to have in writing, so they could reference a clear timeline.
+	- Windmiller: asks a clarifying question about size of phases: mentioned earlier by Scott, but yes, first phase would be the smallest one
+	- Cox: asks for a one-pager (mentions that was already agreed to). Also comments that he likes the phase approach: says one of the bigger problems is with the public. "they want to see that we are doing something, so the quicker, the better"
+		- "Just getting something done as quick as we can helps with ridership as well"
+	- Comissioner Beach: "I appreciate you both somewhat assuming we have no security issues on our Illinois stations"
+		- Mentions they need security upgrades stationwide
+	- Beach also mentions that information is on the Hub, tells Windmiller that she can find some of the information there
+		- would really love it as a member of the public though!
+	- Windmiller mentions she has trouble accessing the hub because she has "multiple email addressess".
+	- Scott: "I take full responsibility with this phased plan"
+	- Commentary from the editor: how are we going to assess security impacts if security incident data isn't public anymore?
+	- Simmons: shows some appreciation for Scott & his staff
+- Unscheduled Business: **none**
+
+- Comments from Taulby Roach
+	- Push the commissioners to look at the monthly update Scott is putting out
+	- "As much as we turn our eyes to MetroLink expansion, obviously in Illinois, and contemplating Northside-Southside, all of which is moving very very well....we are focused like a laser on this project, because it is so very important to how we are changing transit"
+	- Roach mentions when he talks to higher-ups at big engineering firms, the SPP is the main topic
+	- "This is a $56m project, but it will change 100s of millions of dollars of investment"
+	- "The nation is looking at what we are doing in St. Louis associated with this project"
+	- "Our private sector investors really wanted to see these camera investments"
+	- Currently have 800 CCTV cameras, after SPP will be closer to 1500-1600 cameras.
+	- Emerson Park in IL is having a ribbon cutting event: Jan 23rd at 1:30pm
+	- Simmons: Asks Scott how the Code of Conduct is going?
+		- "Ride and Abide": allows them to issue no-tresspass warning to individuals who "have quite frankly, profoundly been a disruption on the system"
+		- Mentions a Post-Dispatch article, I'll have to track that down.
+		- Mentions he can talk about it, but in a closed session
+- Next meetings:
+	- Operations Committee: Jan 27th @ 8:30pm
+	- Audit, Finance and Admin: Jan 27th, following Operations
+	- Board of Commissioners: Friday, Feb 17th @ 8:30pm
+- Approval of Minutes from last meeting: approved without moving into executive session
+- Adjournment
