@@ -1,21 +1,70 @@
 <html>
+
 <head>
 	<style>
 		/* Stylesheet taken from perfectmotherfuckingwebsite.com */
-		body{max-width:650px;margin:40px auto;padding:0 10px;font:18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";color:#444}h1,h2,h3{line-height:1.2}@media (prefers-color-scheme: dark){body{color:#ccc;background:black}a:link{color:#5bf}a:visited{color:#ccf}}
-		nav a { padding-right: 10px; }
-		header a { text-decoration: none }
-		@media (prefers-color-scheme: light) {
-			header a { color: black !important; }
+		body {
+			max-width: 60%;
+			margin: 40px auto;
+			padding: 0 10px;
+			font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+			color: #444
 		}
+
+		@media (max-width: 500px) {
+			body {
+				max-width: 100%
+			}
+		}
+
+		h1,
+		h2,
+		h3 {
+			line-height: 1.2
+		}
+
 		@media (prefers-color-scheme: dark) {
-			header a { color: white !important; }
+			body {
+				color: #ccc;
+				background: black
+			}
+
+			a:link {
+				color: #5bf
+			}
+
+			a:visited {
+				color: #ccf
+			}
+		}
+
+		nav a {
+			padding-right: 10px;
+		}
+
+		header a {
+			text-decoration: none
+		}
+
+		@media (prefers-color-scheme: light) {
+			header a {
+				color: black !important;
+			}
+		}
+
+		@media (prefers-color-scheme: dark) {
+			header a {
+				color: white !important;
+			}
 		}
 	</style>
 </head>
+
 <body>
 	<header>
-		<a href="/"><h3>Reno DuBois</h3></a>
+		<a href="/">
+			<h3>Reno DuBois</h3>
+		</a>
 	</header>
 	<nav>
 		<a href="/posts">Blog</a>
