@@ -1,0 +1,98 @@
+---
+title: Operations Committee Meeting
+date: 2023-01-27 00:00:00
+---
+
+- **Date**: Jan 27, 2023
+- **Meeting Materials**: [link](https://www.bistatedev.org/wp-content/uploads/2022/12/01-27-2023-Operations-Committee-Open-Meeting-Materials.pdf)
+- **Video Link**: [Facebook](https://www.facebook.com/bistatedev/videos/950282165937776/) (starts at 00:00)
+---
+
+- Public Comment
+	- 7 in total.
+	- VIA, Rickshaws, and 5 comments from the same person regarding a few things, all of these comments are available in the minutes
+		- I didn't realize they don't read the comments in their entirety anymore - really wish they would!
+- Minutes Approval
+	- done, no changes
+- Contract Modification - On Call GEC Services
+	- Being presented by Tom Curran
+	- This is a contract for on call engineering services, it sounds like.
+	- We've been using the same contractor since 2020, we've used them 17 times for a total of $1.3M.
+	- This modification is asking for the contract to up to 2.5M, until June 2023, with two optional years to 2025.
+	- Curran clarifies that the money would mostly be needed for the 2 optional years, which typically get used.
+	- Herb Simmons mentions that he wants more information about this before he votes yes.
+	- Chair Windmiller is asking if we need additional money to finish out the existing contract, Curran seems to think they don't - this would be almost entirely for the optional years of the contract.
+	- Huh, they don't have a quorum, but apparently they don't need one to vote on committee stuff?
+	- Chair Windmiller is deciding to put this on the next meeting's agenda, since Simmons wants more information.
+- Contract Modification - Upgrade Obsolete Dispatch Console Network (Motorola Solutions)
+	- Also presented by Curran.
+	- Initial amount was $33M, $14.9M has been used (over 5 contracts to Motorola)
+	- The dispatch system is reaching end of life, and aren't being supported by the manufacturer anymore.
+	- Also mentions that the real time camera center expansion (which is part of the SPP, I believe) needs system expansion, which isn't possible with this system.
+	- So, the modification is for 1.5M, but it's unclear to me whether that's just another 1.5M of the initially allotted money, or an additional 1.5M on top of that. Sort of seems like the latter, but not well stated.
+	- Simmons: asks what the model name is of the current system, and the Motorola person of contact. Curran is just here presenting on behalf of someone else, so he doesn't know.
+	- Taulby Roach chimes in to answer some questions: mentions the name and model.
+	- Curran says the system is 13 years old now.
+	- Headed to a voice vote, no opposition there.
+- Contract Modification - CB/DR Public Address/Customer Information System
+	- Hearing from Curran on this one.
+	- Metro wants to add the ability to make real-time announcements to MetroLink platforms from the real-time camera center.
+	- ~$141K. About a 3% increase over the current cost/budget.
+	- Wabtec Inc is the company we use for this.
+	- Simmons: asks how long the upgrade will take. Curran says the contract says it has to take less than a year, Roach chimes in and says it would be due by the end of the current contract, by May 2024.
+	- Chair Windmiller: asks how these announcements are different from the ones you hear on that stations currently. Curran says these would be a real person talking, not the computer generated voices you hear currently during announcements.
+	- Voice vote: no opposition, so it passes
+- Contract Award: Electronic Fare Collection
+	- Back to Curran
+	- Masabi is the company this would be awarded to. [Link](https://www.masabi.com/) to their website.
+	- Smart cards, paper barcode tickets, contactless credit cards, customer facing web portal, mobile ticketing, and new validators for MetroBus and MetroLink was what was being looked for.
+		- I mean, it sucks we're spending all of this money to lock down the MetroLink platforms, but hopefully this means we can have better reloadable card options in the future.
+	- Contract is not to exceed $4M.
+	- 460 on-bus validators, 178 MetroLink platform validators.
+	- Mentions that a good chunk of the money for this is actually fees for the first 3 years.
+	- Chair Windmiller: asking about the cards that are available to use for contactless pay, mentions that Discover is left out.
+		- Lawrence Sutton (a project manager for this?) mentions that it should be added.
+	- Second question from Windmiller: what does it look like for customers to use this?
+		- Every location will accept cash and credit cards.
+		- Travel wallet: riders can put a certain value on their wallet to use.
+		- Contactless CMV: tapping credit cards and phones (via barcode reader, not NFC it sounds like?). This is how MTA in New York works (and it's pretty nice to use)
+		- Also mentions that because every rider needs electronic media to use the system now (either via a ticket or phone/card) so the agency will be better able to track where their trips are, and says that the agency can use that to plan better (I really hope they use this data, but I will remain cautious that they're not just going to ignore it)
+		- Simmons: asks how this system will be different as opposed to a failed system (which I have not heard of?) that Metro tried previously. He also mentions that they took an extra step when selecting a vendor here, in response to the board asking to be more thorough, 
+		- Roach mentions that the technology is much different now, and that multiple places in the country are doing something like this.
+		- Also mentions that because many of the ticketing systems are SaaS, they don't have to choose a specific gate manufacturer and are generally more flexible.
+		- Interesting: paying via phone is the "most expensive" ticket, at least on CTA (in reference to Roach's son).
+	- Windmiller: asking how this will affect universities and "large customers"
+		- Curran: asking the customers directly what they prefer, mentions that some places in the country do mobile & phone tickets for students, some still provide passes.
+	- Voice vote: we're approved!
+- Unscheduled Business
+	- None.
+- Operations Report
+	- Hearing from Charles Stewart Jr. for this.
+	- Bus ridership is up 5.2% over last year, MetroLink: 7.0% over last year. Call-A-Ride ridership down, primarily because of lack of staff availability.
+	- Staffing continues to be a challenge. Down over 200 bus operators, 18 MetroLink, 78 Call-A-Ride, 44 mechanics, 14 electricians
+	- MetroBus missed over 2500 trips in December, primarily due to staff shortages. This is 2.5% of missed trips. Down from 6.1% in Nov
+	- 7% reduction of bus service in MO, primarily to match available resources
+	- Planning on another service change in March: not a reduction but a timetable change to improve connections between MetroLink and the buses.
+	- 2 missed trips on the MetroLink, both on Christmas Day.
+	- ~15K trips on Call-A-Ride were denied, for various reasons.
+		- Makes it sound like the system is being stretched far too thin.
+		- Mentions that many trips were denied because the people requesting were not ADA-certified.
+	- Hiring efforts: not going great, but improving.
+	- As an FYI, you can view the actual numbers on hiring and all that in the meeting packet [here](https://www.bistatedev.org/wp-content/uploads/2022/12/01-27-2023-Operations-Committee-Open-Meeting-Materials.pdf) - page 75.
+	- Stewart says that they've revamped training since they lost a number of prospects during the training process.
+	- We have a new labor contract with IBEW.
+	- Held an open forum with current operators, and they mentioned that the operators want "equitable pay", and it sounds like they're offering incentives to work during more peak hours.
+	- On to questions now.
+	- Debra Moore: "I don't envy you at all". Asks when calls and trips are missed, how is that communicated to the riders?
+		- "rigorous system" to inform riders. (I'm not sure what this is - Transit app notifications happen, but you still miss buses without any notice.)
+	- Windmiller thanks Stewart and the operators for working under these conditions
+		- Agreed - thank your local bus driver (or MetroLink operator!)
+- Report from the CEO
+	- Roach mentions again Stewart's work and the team working on the IBEW negotiations.
+	- Emerson Park groundbreaking: $13M investment. This is the station and a big safety/security center.
+	- Oh, and apparently they're working on an extension to Mid-America Airport? I didn't know that, very cool.
+	- Roach will be in Washington D.C. in March working getting funding for N/S MetroLink. NewStart application seems to be the source of funding.
+	- County is moving on North County MetroLink expansion analysis.
+	- Will be mentioning more of this at the upcoming CMT event, on February 1st, 8:30AM central.
+	- Link to that event is [here](https://cmt-stl.org/citizens-for-modern-transit-to-host-next-talking-transit-event-on-feb-1-discussion-to-highlight-status-of-transit-in-the-st-louis-region-in-2023/). I'll be attending (virtually) and might have some notes and highlights posted here after the event. Heads up: you'll need to register to join the Zoom call.
+- Meeting adjourned! See you at the Finance, Audit & Admin meeting next.
