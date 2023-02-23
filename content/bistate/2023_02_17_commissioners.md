@@ -1,0 +1,58 @@
+---
+title: Board of Comissioners Meeting
+date: 2023-02-17 00:00:00
+---
+
+- **Date**: 02/17/2023
+- **Time**: 8:33AM
+- **Meeting** Materials: https://www.bistatedev.org/wp-content/uploads/2022/12/02-17-2023-Board-of-Commissioners-Open-Meeting-Materials.pdf
+- **Video Link**: https://www.youtube.com/watch?v=9fhv8pY0kD8
+---
+
+Howdy folks, we're back with some more Bi-State meeting notes. Apologies for these being a little bit late. The agenda for today seems to be a bunch of items I've covered in previous notes, so I'll link to those for more detailed explanations on what is going on in those items.
+- Public comments
+	- 6 Comments: Metro Dashboard for Metrics, Safety, American Infrastructure Plan funding, & equitable transit operations in North County.
+	- Still don't love that they don't read these out loud. Maybe I will start submitting public comments to say that :)
+- Minute Approval
+	- Nothing interesting here, all of these pass.
+- Comments from Taulby Roach
+	- Talking now about contract proposals & negotations with the operations union, I believe. Says they're close to coming to an agreement there, they're putting an offer in front of ATU this morning.
+	- Having some problems with some of the MetroLink trains installing some grounding wires in the camera system. Not ideal, they had to get pulled from operation because of that. This has caused some single car service. I ran into that this week!
+	- Tri-Annual FTA Audit Period - I heard about this during the Audit & Finance meetings, we heard that they're doing a big audit that happens once every 3 years. Says it's for ensuring to the public they're being good stewards of the public money given to them.
+	- N/S MetroLink is moving along: starting to get pricing & ridership studies for the Jefferson Alignment in the city - numbers on that could come as early as this spring! Very exciting. This is for submitting to the federal government to apply for a grant.
+	- They're also doing an alternatives announcement in the county to where that would extend near Florissant. They released a map of these, which you can view [here](https://cmt-stl.org/st-louis-county-releases-options-for-north-county-metrolink-extension/). Hoping they choose a line that connects to the existing service on the red line.
+	- We're breaking ground in Illinois for expansion towards Scott Air Force Base, mentions how post-pandemic ridership patterns have affected things and that they're adapting to that.
+	- Now we move on to any questions from the commissioners.
+		- Commissioner Windmiller: asking about a timeline on the MetroLink going back to 2 car operations - mentions CWE during evening rush hour in particular (I've heard folks mention this about this station specifically!)
+		- Roach: there are _some_ double cars, and they're trying to make sure sections like CWE during that time have double cars. Mentions Blue Line trains specifically.
+- Report of the Operations Committee
+	- Link to the previous Operations Committee Meeting can be found [here](/bistate/2023_01_27_operations/)
+	- Recommending passage to 3 different items:
+		- The contract modification for the Motorola radio systems
+		- The contract modification for the station announcement systems (adding live announcement capabillity to that system)
+		-  The contract modification for the new fare collection system
+- Report of the Audit Finance & Admin Committee
+	- View the notes for that [here](/bistate/2023_01_27_audit_finance_admin). As noted on that page - the notes for this meeting are not great, lots of things I don't quite understand in that meeting.
+	- One item:
+		- Contract approval for a compensation study
+	- Budget overview is also on the agenda for approval.
+- Report of the Safety & Security Committee
+	- Notes can be found [here](/bistate/2023_01_12_safety_security/).
+- Approval for the budget for 2024-2026.
+	- Looks like we're not getting a presentation here, since there already was one at the committee meeting.
+	- Approved.
+- Unscheduled Business
+	- None.
+- Operations Update
+	- No updates since the committee update a few months ago.
+	- Still over 200 bus operators short.
+	- Mic quality is really bad for this section, so hard to understand things here.
+	- They're making some changes to Call-A-Ride, which isn't surprising considering they had nearly 50% missed trips for some reason on Call-A-Ride.
+	- Unions: reached an agreement with IBEW already. Have been working with ATU since May of last year. They're making an offer today - says it's a fair agreement, largest financial package they've offered in the last 20 years. Same base wage increase as IBEW, and an up to 7% increase with incentives around different time slots. This got mentioned in a different meeting, basically just offering extra pay during peak hours.
+	- Shoutout to the ASL interpreter trying their best to make something of what sounds like audio in a tunnel.
+	- Questions:
+		- An unknown Commissioner to me is asking about the upcoming changes, asking if they're cuts, or how many more cuts it will take to get the service consistent with the labor and equipment.
+		- Stewart: not cuts, but more adjustments to where service is being delivered. Says that with hiring increasing, hoping to round the corner, but could be a few more months before we even start to look at that.
+- Adjournment
+	- That's all folks! A short one today. Next meetings are in March, and I'll have notes up for them. If you're interested in watching along live, you can check out the [Bi-State Facebook]() and the [Public Meetings Page](https://www.bistatedev.org/public-meetings/).
+	- Don't forget to leave [public comment](https://www.bistatedev.org/public-meetings/public-comment-form/) for the next meetings! They'll get left in minutes, even during committee votes.
