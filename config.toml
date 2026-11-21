@@ -1,5 +1,5 @@
 baseURL = 'https://www.renodubois.com'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Reno DuBois'
 contentdir = 'content'
 canonifyurls = true

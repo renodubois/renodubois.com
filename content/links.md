@@ -1,5 +1,4 @@
 ---
-layout: default.liquid
 ---
 
 My email: [me@renodubois.com](mailto:me@renodubois.com)
